@@ -1,4 +1,4 @@
-FROM 222.211.65.73:5000/java
+FROM 192.168.8.13:5000/java
 
 LABEL Vendor="Ghostcloud" \
     Name="gs-spring-boot" \
